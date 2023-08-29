@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  list-style-type: none;
+}
+
+body{
+  background: #dad5df;
+}
+
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+  margin: 20px;
+  background-color: bisque;
+  padding: 50px;
+}
+
+h2{
+  margin-top: 20px;
+  text-align: center;
+  color: darkslateblue;
+}
+
+p{
+  color: #333;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 1.5rem;
+}
+
+h3{
+  text-align: center;
+  margin-top: 40px;
+  font-size: 1.3rem;
+  color: darkslateblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
